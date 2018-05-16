@@ -63,11 +63,11 @@
 <repository>
 <id>deployment</id>
 <name>internal release</name>
-<url>http://35.200.155.71:8081/repository/sample-rel/</url>
+<url>http://18.221.7.236:8081/repository/maven-releases/</url>
 </repository>
  <snapshot release>
 <id>deployment</id>
-<url>http://35.200.155.71:8081/repository/sample-snap/</url>
+<url>http://18.221.7.236:8081/#admin/repository/repositories:maven-snapshots/</url>
 </snapshot release>
 </distributionmanagement>
 </project>
